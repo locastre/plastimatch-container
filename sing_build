@@ -1,0 +1,3 @@
+#!/bin/bash
+
+singularity build plastimatch.sif docker://locastre/plastimatch:latest
